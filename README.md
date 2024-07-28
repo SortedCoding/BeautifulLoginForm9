@@ -12,7 +12,7 @@ Here we have project screenshot :
 ![screenshot](image5.png)
 
 Raw Image:-
-![screenshot](landscape-trees-mountains-clouds-digital-art-38.jpg)
+![screenshot](power-lines-moon-sky-minimalism-4k-gp.jpg)
 
 # Features:
 Modern Design: Sleek and visually appealing design for a professional look.
